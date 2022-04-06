@@ -47,7 +47,7 @@ Run 2nd function with stdin to stdout:
 $ node index.js -a 2
 ```
 
-For 1st function you have to pass two strings with string delimiter `:`
+For 1st function you have to pass two strings with string delimiter `:`<br/>
 example: `eecoff:coffee` `java:vaja` `node:oden`
 
 For 2st function you have to pass array of integers
