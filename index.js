@@ -37,7 +37,7 @@ process.on("SIGINT", () => {
 });
 
 program
-  .requiredOption("-a --action <action>", "An action encode/decode")
+  .requiredOption("-a --action <action>", "An action 1st/2nd function")
   .option("-i, --input <filename>", "An input file")
   .option("-o --output <filename>", "An output file")
   .action(actionHandler);
