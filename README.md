@@ -50,5 +50,5 @@ $ node index.js -a 2
 For 1st function you have to pass two strings with string delimiter `:`<br/>
 example: `eecoff:coffee` `java:vaja` `node:oden`
 
-For 2st function you have to pass array of integers
+For 2st function you have to pass array of integers<br/>
 example: `[1,2,2,3]` `[1,2,3,4,5]` `[2,3,1,3,5]`
